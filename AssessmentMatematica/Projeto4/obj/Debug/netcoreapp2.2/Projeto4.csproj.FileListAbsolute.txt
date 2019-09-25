@@ -1,0 +1,11 @@
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\bin\Debug\netcoreapp2.2\Projeto4.deps.json
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\bin\Debug\netcoreapp2.2\Projeto4.runtimeconfig.json
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\bin\Debug\netcoreapp2.2\Projeto4.runtimeconfig.dev.json
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\bin\Debug\netcoreapp2.2\Projeto4.dll
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\bin\Debug\netcoreapp2.2\Projeto4.pdb
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\obj\Debug\netcoreapp2.2\Projeto4.csprojAssemblyReference.cache
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\obj\Debug\netcoreapp2.2\Projeto4.csproj.CoreCompileInputs.cache
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\obj\Debug\netcoreapp2.2\Projeto4.AssemblyInfoInputs.cache
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\obj\Debug\netcoreapp2.2\Projeto4.AssemblyInfo.cs
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\obj\Debug\netcoreapp2.2\Projeto4.dll
+D:\blocoMatemactica\AssessmentMatematica\Projeto4\obj\Debug\netcoreapp2.2\Projeto4.pdb

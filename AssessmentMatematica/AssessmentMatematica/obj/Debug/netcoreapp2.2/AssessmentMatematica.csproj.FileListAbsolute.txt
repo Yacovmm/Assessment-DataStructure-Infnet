@@ -1,0 +1,11 @@
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\bin\Debug\netcoreapp2.2\AssessmentMatematica.deps.json
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\bin\Debug\netcoreapp2.2\AssessmentMatematica.runtimeconfig.json
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\bin\Debug\netcoreapp2.2\AssessmentMatematica.runtimeconfig.dev.json
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\bin\Debug\netcoreapp2.2\AssessmentMatematica.dll
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\bin\Debug\netcoreapp2.2\AssessmentMatematica.pdb
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\obj\Debug\netcoreapp2.2\AssessmentMatematica.csprojAssemblyReference.cache
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\obj\Debug\netcoreapp2.2\AssessmentMatematica.csproj.CoreCompileInputs.cache
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\obj\Debug\netcoreapp2.2\AssessmentMatematica.AssemblyInfoInputs.cache
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\obj\Debug\netcoreapp2.2\AssessmentMatematica.AssemblyInfo.cs
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\obj\Debug\netcoreapp2.2\AssessmentMatematica.dll
+D:\blocoMatemactica\AssessmentMatematica\AssessmentMatematica\obj\Debug\netcoreapp2.2\AssessmentMatematica.pdb
