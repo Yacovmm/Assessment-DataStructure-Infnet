@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace AssessmentMatematica
 {
-    class Program
+    static class Program
     {
         static void Main(string[] args)
         {
