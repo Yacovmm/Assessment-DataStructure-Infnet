@@ -151,11 +151,15 @@ namespace AssessmentMatematica
 
         internal static void RealizaEntregas()
         {
-            if(ConjuntoCaminhoes.Count <= 1)
+            foreach (Caminhao c in ConjuntoCaminhoes.Values)
             {
-                // Co
+                ReturnString(c);
             }
+        }
 
+        public static string ReturnString(Caminhao caminhao)
+        {
+            return caminhao.ReturnString();
         }
 
         //public static IEnumerable<int> PontosEntregaSemCaminhaoAssociado()
